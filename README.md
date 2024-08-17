@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **anything interesting**
 
-- 💬 Ask me about **Python, ML, AI**
+- 💬 Ask me about **Python, ML, AI, Cyber Security**
 
 - 📫 How to reach me **girumsenay84@gmail.com**
 
